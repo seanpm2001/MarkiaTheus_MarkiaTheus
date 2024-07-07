@@ -38,7 +38,7 @@
 <!-- stackoverflow -->
 [![](https://img.shields.io/badge/stackoverflow-000000)](https://stackoverflow.com/users/5552947/markia?tab=profile)
 <!-- bmac -->
-[![](https://img.shields.io/badge/buy%20me%20a%20coffee-ffdd00)](https://buymeacoffee.com/mtheus)
+[![](https://img.shields.io/badge/buy%20me%20a%20coffee%20☕-ffdd00)](https://buymeacoffee.com/mtheus)
 
 <br><br><br>
 
